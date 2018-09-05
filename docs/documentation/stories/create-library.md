@@ -81,7 +81,7 @@ Running `ng build my-lib` every time you change a file is bothersome and takes t
 In `Angular CLI` version `6.2` an incremental builds functionality has been added to improve the experience of library developers. 
 Everytime a file is changed a partial build is performed that emits the amended files.
 
-The feature can be using by passing `--watch` command argument as show below;
+The feature can be used by passing `--watch` command argument as show below;
 
 ```bash
 ng build my-lib --watch
